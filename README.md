@@ -76,10 +76,21 @@ Git Commit -m "Message": Records file snapshots permanently in version history
 ```github
 Git Commit -m Myfile.txt
 ```
-
+Git reset: Undoes all commits after [commit], preserving changes locally
+```github
+Git reset
+```
+Git log: Lists version history for the current branch
+```github
+Git log
+```
+Git Status: Check the files that don't are agregate in commit
 ```github
 Git Status
 ```
+
+
+
 
 
 
