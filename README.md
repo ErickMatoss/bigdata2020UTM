@@ -51,6 +51,28 @@ Predictive analytics is the technique that allows analysts to make predictions b
 3. Prescriptive analysis:
 Suggests the possible decisions to be taken against these scenarios, and the probable consequences of those decisions.
 
+## Handoop 
+Is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. Is a library.
+
+## MapReduce
+Map Reduce is a programming environmentconsists of distributing a large amount of data in many clusters and processing them faster.
+
+## Apache Spark
+Spark is a distributed data processing engine that allows you to handle large volumes of information.
+
+## Lambda Y Kappa
+
+Lambda: This architecture is characterized by using different layers for batch processing and streaming.
+
+Kappa: Unlike lambda, his proposal is to eliminate the batch layer leaving only the streaming layer.
+
+# GitHub Commands
+
+```github
+Git Init
+```
+
+
 
 
 
