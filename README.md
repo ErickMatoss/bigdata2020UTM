@@ -1,4 +1,5 @@
 ### bigdata2020UTM
+Alumno: Erick Javier Matos Ramos 5°A IRD
 # The importance of the data.
 
 ## Explain the impact of the data today:
