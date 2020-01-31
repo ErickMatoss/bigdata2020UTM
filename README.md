@@ -72,6 +72,13 @@ Kappa: Unlike lambda, his proposal is to eliminate the batch layer leaving only 
 Git Init
 ```
 
+```github
+Git Commit
+```
+
+```github
+Git Status
+```
 
 
 
