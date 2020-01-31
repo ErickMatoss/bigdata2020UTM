@@ -1,4 +1,4 @@
-# bigdata2020UTM
+### bigdata2020UTM
 # The importance of the data.
 
 ## Explain the impact of the data today:
@@ -51,6 +51,6 @@ Predictive analytics is the technique that allows analysts to make predictions b
 3. Prescriptive analysis:
 Suggests the possible decisions to be taken against these scenarios, and the probable consequences of those decisions.
 
-### Github Commands
+
 
 
