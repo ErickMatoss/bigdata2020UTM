@@ -84,14 +84,37 @@ Git log: Lists version history for the current branch
 ```github
 Git log
 ```
-Git Status: Check the files that don't are agregate in commit
+Git Status: Check the files that don't are agregate in commit. 
+Show modified files in working directory, staged for your next commit
 ```github
 Git Status
 ```
+Git add "File.txt": add a file as it looks now to your next commit (stage)
+```github
+Git add "MyFile.txt"
+```
+Git rm: This command delete the file from project and stage the removal for commit
+```github
+Git rm MyFile.txt
+```
+Git mv : Change an existing file path and stage the move.
+```github
+git mv [existing-path] [new-path]
+```
 
-
-
-
-
-
-
+Git diff: show the diff of changes of a file before to apply commit
+```github
+git diff [existing-path] [new-path]
+```
+Git checkout: switch to another branch and check it out into your working directory
+```github
+git checkout xxxxxxxxxxxxxxx
+```
+Git reset: Unstage a file while retaining the changes in working directory
+```github
+git reset File.txt
+```
+Git ammend: It is a practical way to modify the most recent confirmation. It allows you to combine the changes prepared with the previous confirmation instead of creating a new confirmation.
+```github
+git commit --amend
+```
