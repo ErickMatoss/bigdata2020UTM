@@ -74,7 +74,7 @@ Git Init
 ```
 Git Commit -m "Message": Records file snapshots permanently in version history
 ```github
-Git Commit .m Myfile.txt
+Git Commit -m Myfile.txt
 ```
 
 ```github
