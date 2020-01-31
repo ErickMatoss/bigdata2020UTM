@@ -68,12 +68,13 @@ Kappa: Unlike lambda, his proposal is to eliminate the batch layer leaving only 
 
 # GitHub Commands
 
+Git Init: Turn an existing directory into a git repository
 ```github
-Git Init
+Git Init  
 ```
-
+Git Commit -m "Message": Records file snapshots permanently in version history
 ```github
-Git Commit
+Git Commit .m Myfile.txt
 ```
 
 ```github
